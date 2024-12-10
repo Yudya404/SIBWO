@@ -1,2 +1,2 @@
-# Tokol
-Toko Online DistroIT dengan PHP native, MySQLi dan Bootstrap 3
+# SIBWO (Sistem Informasi Booking Wedding Organizer)
+Sistem informasi Pemesanan Dekorasi, Fotografi, MUA, dan Catering Pernikahan.
